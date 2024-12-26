@@ -1,0 +1,14 @@
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\bin\Debug\net8.0\MVC_Cursos.exe
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\bin\Debug\net8.0\MVC_Cursos.deps.json
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\bin\Debug\net8.0\MVC_Cursos.runtimeconfig.json
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\bin\Debug\net8.0\MVC_Cursos.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\bin\Debug\net8.0\MVC_Cursos.pdb
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.AssemblyInfoInputs.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.AssemblyInfo.cs
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\refint\MVC_Cursos.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.pdb
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\MVC_Cursos.genruntimeconfig.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Cursos\MVC_Cursos\obj\Debug\net8.0\ref\MVC_Cursos.dll
